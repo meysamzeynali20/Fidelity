@@ -1,0 +1,25 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "root": [
+                "Components/Exports"
+            ],
+            "Index": [
+                "Components/Index/Exports"
+            ],
+            "blog": [
+                "Components/blog/Exports"
+            ],
+            "post": [
+                "Components/post/Exports"
+            ],
+            "page": [
+                "Components/page/Exports"
+            ],
+            "contact": [
+                "Components/contact/Exports"
+            ],
+        }
+    }
+}
